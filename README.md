@@ -2,9 +2,10 @@ Hello!
 
 I am a software engineer, a data scientist, and an open source contributor.
 
-You can find a list of some of my projects [on my website](https://ivorius.de).
+You can find my [academic and professional work](https://tenbrink.me) on my website.
+You can find some of my free-time projects on my [other website](https://ivorius.de). 
 
-Other projects I help maintain are found in my pins.
+Some projects I (help) maintain are also found in my pins.
 
 Cheers!
 
