@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Lukas Tenbrink's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Commits  : 27171, Total PRs: 591, Total PRs Merged: 422, Total PRs Reviewed: 511, Total Issues: 344, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Commits  : 27169, Total PRs: 591, Total PRs Merged: 422, Total PRs Reviewed: 511, Total Issues: 344, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 11.905057569797311;
+        stroke-dashoffset: 11.905057570181864;
       }
     }
   
